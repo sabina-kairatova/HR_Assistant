@@ -16,8 +16,8 @@ python --version
 
 #### 2. Создайте и активируйте виртуальную среду
 python -m venv venv  
-source venv/bin/activate   # для Linux/MacOS  
-venv\Scripts\activate      # для Windows  
+source venv/bin/activate       # для Linux/MacOS  
+venv\Scripts\activate          # для Windows  
 
 #### 3. Установите зависимости
 pip install -r requirements.txt  
