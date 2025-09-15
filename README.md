@@ -5,7 +5,8 @@ HR Assistant
 Это веб-приложение на **Streamlit**, которое использует OpenAI API и LangGraph для обработки запросов.  
 
 ### Установка и запуск
-git clone 
+git clone https://github.com/sabina-kairatova/HR_Assistant.git  
+cd HR_Assistant  
 
 #### 1. Установите Python 3.11
 Если у вас не установлен Python версии 3.11, скачайте и установите его с официального сайта   
