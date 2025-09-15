@@ -1,0 +1,9 @@
+streamlit==1.49.1
+chromadb==1.0.20
+langchain==0.3.27
+langchain-core==0.3.76
+langchain-openai==0.3.16
+langgraph==0.6.7
+torch==2.8.0
+PyMuPDF==1.26.4
+openai==1.77.0
